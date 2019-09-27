@@ -1,6 +1,6 @@
 node {
 stage('Git CheckOut') {
-    git 'https://github.com/amitvashist7/devops-sg-25092019.git'
+    git 'https://github.com/akashunni/devops-sg-25092019.git'
 }    
 
 def project_path = "atmosphere/spring-boot-samples/spring-boot-sample-atmosphere"
